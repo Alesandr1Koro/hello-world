@@ -1,2 +1,3 @@
 # hello-world
-readme-edits
+
+Я студент 128 группы, да я
